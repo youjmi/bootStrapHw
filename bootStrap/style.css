@@ -5,6 +5,10 @@ a:hover {
   text-decoration: none;
 }
 
+.navbarTogglerDemo02 {
+  text-align: right;
+}
+
 .fa{
   border-radius: 50%;
   text-decoration: none;
@@ -39,3 +43,6 @@ padding: 8px 13px 8px 13px;
 .Copyright {
   font-size: 20px;
 }
+
+
+
