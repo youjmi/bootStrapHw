@@ -1,32 +1,37 @@
 
 
-.lo {
-    padding: 10px;
-    font-size: 15px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    margin: 2px 1px;
-    border-radius: 50%
-  }
-
-.lo:hover {
-    opacity: 0.7;
+a:hover {
+  opacity: 20%;
+  text-decoration: none;
 }
 
-.lo-linkedin {
-    background: #007bb5;
-    color: white;
-  }
-
-.lo-youtube {
-    background: #bb0000;
-    color: white;
-  }
-
-.lo-github {
-    background: black;
-    color: white;
+.fa{
+  border-radius: 50%;
+  text-decoration: none;
+  margin-right: 5px;
 }
 
+.fa-facebook{
+background-color: #3b5998;
+color: white;
+padding: 8px 13px 8px 13px;
+}
 
+.fa-github {
+  background-color: black;
+  color: white;
+  padding: 8px 10px 8px 10px;
+
+}
+
+.fa-youtube{
+  background-color: red;
+  color: white;
+  padding: 8px 10px 8px 10px;
+}
+
+.fa-linkedin{
+  background-color: #0e76a8;
+  color: white;
+  padding: 8px 10px 8px 10px;
+}
