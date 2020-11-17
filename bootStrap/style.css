@@ -1,14 +1,12 @@
 
+/*Adding Hover feature for my anchor*/
 
 a:hover {
   opacity: 20%;
   text-decoration: none;
 }
 
-.navbarTogglerDemo02 {
-  text-align: right;
-}
-
+/* Adding specific features for my Social Media buttons*/
 .fa{
   border-radius: 50%;
   text-decoration: none;
@@ -40,9 +38,6 @@ padding: 8px 13px 8px 13px;
   padding: 8px 10px 8px 10px;
 }
 
-.Copyright {
-  font-size: 20px;
-}
 
 
 
